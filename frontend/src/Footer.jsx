@@ -24,7 +24,7 @@ const Footer = () => {
             <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
           </svg>
           <strong>Địa chỉ:</strong>
-          <h6>Bich la, trieu phong, trieu dong, tp.hcm</h6>
+          <h6>Văn Lang University</h6>
         </div>
 
         <div className="location flex py__10">
